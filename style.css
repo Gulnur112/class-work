@@ -1,0 +1,118 @@
+ body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(216, 216, 216);
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
+.container{
+    background-color: rgb(243, 241, 241);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 950px;
+    height: 500px;
+    position: absolute;
+    left: 210px;
+}
+.container h1{
+    position: absolute;
+    left: 40px;
+    top: 20px;
+}
+
+.cont{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    position: absolute;
+    top: 23px;
+    left: 250px;
+}
+button{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 5px 9px gray;
+    position: relative;
+    top: 70px;
+    right: 210px;
+}
+.girl{ border-radius: 20px;
+    width: 200px;
+    height: 130px;
+    padding: 10px;
+
+}
+.girl1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px; 
+}
+.one{ 
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 280px;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+.beach{
+    border-radius: 20px;
+    width: 200px;
+    height: 130px;
+    padding: 10px;
+
+}
+.beach1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.historic{
+    border-radius: 20px;
+    width: 200px;
+    height: 110px;
+    padding: 10px;
+}
+.historic1{
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 5px;
+}
+.number{
+    display: flex;
+    justify-content: right;
+    position: relative;
+    bottom: 30px;
+}
+.two{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 280px;
+    position: absolute;
+    top: 150px;
+    left:350px;
+}
+.three{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 280px;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
